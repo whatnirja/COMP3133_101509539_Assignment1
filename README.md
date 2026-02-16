@@ -76,7 +76,7 @@ Used for testing login:
   "email": "nirja1@test.com",
   "password": "Pass1234"
 }
-
+ ```
 
 ## Database Details
 **Database Name:** `comp3133_101509539_Assigment1`
