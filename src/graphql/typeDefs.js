@@ -18,6 +18,9 @@ module.exports = gql`
     email: String!
     gender: String!
     designation: String!
+    salary: Float!
+    date_of_joining: Date!
+    department: String!
     employee_photo: String 
     created_at: Date
     updated_at: Date
