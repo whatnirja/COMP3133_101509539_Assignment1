@@ -69,9 +69,14 @@ The `employee_photo` field stores the Cloudinary image URL.
 
 ##  Sample User Credentials
 Used for testing login:
-**Username:** nirja1
-**Email:** nirja1@test.com
-**Password:** Pass1234
+
+```json
+{
+  "username": "nirja1",
+  "email": "nirja1@test.com",
+  "password": "Pass1234"
+}
+
 
 ## Database Details
 **Database Name:** `comp3133_101509539_Assigment1`
